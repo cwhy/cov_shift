@@ -1,2 +1,4 @@
 .ipy*
 .Rproj.user
+__pycache__*
+logs/*
